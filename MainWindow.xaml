@@ -19,7 +19,7 @@
         </Menu>
         <StackPanel Grid.Row="1" Background="Beige">
             <!-- Content here -->
-            <TextBlock Text="Content goes here..." VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Text="Content goes here." VerticalAlignment="Center" HorizontalAlignment="Center"/>
         </StackPanel>
     </Grid>
 </Window>
